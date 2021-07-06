@@ -11,11 +11,11 @@ h1{
 }
 .flexible-container{
     display: flex;
-    margin-bottom: 100px;
+    margin-bottom: 200px;
 }
 .link-button{
     background-image: linear-gradient(orange,tomato);
-    padding: 5px;
+    padding: 12px;
     border-radius: 20px;
     text-decoration: none;
     color: white;
@@ -26,6 +26,40 @@ h1{
 }
 .background-img{
     background-image:url(images/shapes/7.png);
+    margin-bottom: 100px;
     
 
 }
+footer p{
+    text-align: center;
+    color: white;
+    
+}
+#footer-ad{
+    background-color: black;
+    border-radius: 7px;
+}
+.recipi-item{
+    box-shadow: 10px 10px 20px rgb(90, 79, 79);
+    width: 30%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 5px;
+    border-radius: 10px;
+}
+.recipi-header{
+    text-align: center;
+    margin-bottom: 200px;
+}
+.recipies-area img{
+    border-radius: 10px;
+
+}
+p{
+    font-size: 20px;
+}
+h3{
+    font-size:24px ;
+    font-weight: 600;
+}
+
