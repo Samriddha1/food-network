@@ -62,4 +62,20 @@ h3{
     font-size:24px ;
     font-weight: 600;
 }
+.food-delivery{
+    color: honeydew;
+    background-color: rgb(151, 79, 27);
+    border-radius: 25px;
+    padding-right: 5px;
+    padding-left: 5px;
+    box-shadow: 15px 15px 30px orange;
+    
+    margin: 20px;
+}
+.blue-color{
+    color: slateblue;
+}
+h2{
+    margin-left:2%;
+}
 
